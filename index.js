@@ -10,7 +10,7 @@ console.log(message)
 
 var name1 = "Caballero"
 var money = "1 million"
-var message2 = '${name1} is ${money} richier now'
+var message2 = `${name1} is ${money} richier now`
 
 module.exports = {name1, money, message2}
 
